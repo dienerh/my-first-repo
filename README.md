@@ -1,10 +1,7 @@
 # Heiko Diener
 
-### Geography
-
 I Live in **Leipzig**.
 #### sports
-
 
 - swimming
 - running		
